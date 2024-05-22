@@ -1,0 +1,403 @@
+﻿時間
+"時間    13:20:10
+Name: 59, dtype: object"
+"時間    13:20:00
+Name: 61, dtype: object"
+"時間    13:17:30
+Name: 91, dtype: object"
+"時間    13:15:00
+Name: 121, dtype: object"
+"時間    13:12:30
+Name: 151, dtype: object"
+"時間    13:10:00
+Name: 181, dtype: object"
+"時間    13:07:30
+Name: 211, dtype: object"
+"時間    13:05:00
+Name: 241, dtype: object"
+"時間    13:02:30
+Name: 271, dtype: object"
+"時間    13:00:00
+Name: 301, dtype: object"
+"時間    12:57:30
+Name: 331, dtype: object"
+"時間    12:55:00
+Name: 361, dtype: object"
+"時間    12:52:30
+Name: 391, dtype: object"
+"時間    12:50:00
+Name: 421, dtype: object"
+"時間    12:47:30
+Name: 451, dtype: object"
+"時間    12:45:00
+Name: 481, dtype: object"
+"時間    12:42:30
+Name: 511, dtype: object"
+"時間    12:42:30
+Name: 511, dtype: object"
+"時間    12:37:30
+Name: 571, dtype: object"
+"時間    12:35:00
+Name: 601, dtype: object"
+"時間    12:32:30
+Name: 631, dtype: object"
+"時間    12:30:00
+Name: 661, dtype: object"
+"時間    12:27:30
+Name: 691, dtype: object"
+"時間    12:25:00
+Name: 721, dtype: object"
+"時間    12:22:30
+Name: 751, dtype: object"
+"時間    12:20:00
+Name: 781, dtype: object"
+"時間    12:17:30
+Name: 811, dtype: object"
+"時間    12:15:00
+Name: 841, dtype: object"
+"時間    12:12:30
+Name: 871, dtype: object"
+"時間    12:10:00
+Name: 901, dtype: object"
+"時間    12:07:30
+Name: 931, dtype: object"
+"時間    12:05:00
+Name: 961, dtype: object"
+"時間    12:02:25
+Name: 991, dtype: object"
+"時間    12:00:00
+Name: 1011, dtype: object"
+"時間    11:56:20
+Name: 1041, dtype: object"
+"時間    11:53:05
+Name: 1071, dtype: object"
+"時間    11:50:05
+Name: 1091, dtype: object"
+"時間    11:45:10
+Name: 1121, dtype: object"
+"時間    11:42:00
+Name: 1151, dtype: object"
+"時間    11:40:05
+Name: 1164, dtype: object"
+"時間    11:36:10
+Name: 1194, dtype: object"
+"時間    11:33:00
+Name: 1224, dtype: object"
+"時間    11:30:10
+Name: 1246, dtype: object"
+"時間    11:26:50
+Name: 1276, dtype: object"
+"時間    11:23:35
+Name: 1306, dtype: object"
+"時間    11:20:40
+Name: 1336, dtype: object"
+"時間    11:20:15
+Name: 1341, dtype: object"
+"時間    11:17:30
+Name: 1371, dtype: object"
+"時間    11:14:50
+Name: 1401, dtype: object"
+"時間    11:12:00
+Name: 1431, dtype: object"
+"時間    11:10:15
+Name: 1451, dtype: object"
+"時間    11:07:15
+Name: 1481, dtype: object"
+"時間    11:04:35
+Name: 1511, dtype: object"
+"時間    11:02:00
+Name: 1541, dtype: object"
+"時間    11:00:15
+Name: 1559, dtype: object"
+"時間    10:57:20
+Name: 1589, dtype: object"
+"時間    10:54:20
+Name: 1619, dtype: object"
+"時間    10:51:30
+Name: 1649, dtype: object"
+"時間    10:50:20
+Name: 1663, dtype: object"
+"時間    10:47:25
+Name: 1693, dtype: object"
+"時間    10:44:45
+Name: 1723, dtype: object"
+"時間    10:41:40
+Name: 1753, dtype: object"
+"時間    10:40:20
+Name: 1767, dtype: object"
+"時間    10:37:30
+Name: 1797, dtype: object"
+"時間    10:34:20
+Name: 1827, dtype: object"
+"時間    10:30:55
+Name: 1857, dtype: object"
+"時間    10:30:20
+Name: 1863, dtype: object"
+"時間    10:27:15
+Name: 1893, dtype: object"
+"時間    10:23:50
+Name: 1923, dtype: object"
+"時間    10:20:20
+Name: 1953, dtype: object"
+"時間    10:16:55
+Name: 1983, dtype: object"
+"時間    10:13:30
+Name: 2013, dtype: object"
+"時間    10:10:25
+Name: 2043, dtype: object"
+"時間    10:10:20
+Name: 2044, dtype: object"
+"時間    10:07:10
+Name: 2074, dtype: object"
+"時間    10:03:55
+Name: 2104, dtype: object"
+"時間    10:01:05
+Name: 2134, dtype: object"
+"時間    10:00:40
+Name: 2139, dtype: object"
+"時間    09:57:15
+Name: 2169, dtype: object"
+"時間    09:53:35
+Name: 2199, dtype: object"
+"時間    09:51:05
+Name: 2229, dtype: object"
+"時間    09:50:45
+Name: 2232, dtype: object"
+"時間    09:47:40
+Name: 2262, dtype: object"
+"時間    09:44:45
+Name: 2292, dtype: object"
+"時間    09:41:50
+Name: 2322, dtype: object"
+"時間    09:40:45
+Name: 2334, dtype: object"
+"時間    09:38:00
+Name: 2364, dtype: object"
+"時間    09:35:20
+Name: 2394, dtype: object"
+"時間    09:32:30
+Name: 2424, dtype: object"
+"時間    09:30:55
+Name: 2438, dtype: object"
+"時間    09:28:00
+Name: 2468, dtype: object"
+"時間    09:25:00
+Name: 2498, dtype: object"
+"時間    09:21:50
+Name: 2528, dtype: object"
+"時間    09:21:05
+Name: 2533, dtype: object"
+"時間    09:17:55
+Name: 2563, dtype: object"
+"時間    09:14:40
+Name: 2593, dtype: object"
+"時間    09:11:05
+Name: 2620, dtype: object"
+"時間    09:07:25
+Name: 2650, dtype: object"
+"時間    09:04:25
+Name: 2680, dtype: object"
+"時間    09:01:20
+Name: 2710, dtype: object"
+"時間    09:01:10
+Name: 2712, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
+"時間    09:00:10
+Name: 2721, dtype: object"
